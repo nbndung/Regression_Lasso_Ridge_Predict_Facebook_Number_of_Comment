@@ -1,0 +1,4 @@
+- This is a Regression problem
+- The goal is to predict number of comments on a facebook post
+- Using Lasso / Ridge to select features in order to reduce overfitting
+- Metrics used: MSE and RSS
